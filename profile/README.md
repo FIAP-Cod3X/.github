@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[URL-DO-SEU-LOGO-AQUI]" width="200">
-</p>
-
 <h1 align="center">
   Bem-vindo à Cod3X!
 </h1>
