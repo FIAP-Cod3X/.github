@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://github.com/FIAP-Cod3X/Challenge_Front_Sprint1]"><img src="https://img.shields.io/badge/Projeto-Plataforma_TDB-blueviolet?style=for-the-badge"></a>
+  <a href="https://github.com/FIAP-Cod3X/Challenge_Front_Sprint1"><img src="https://img.shields.io/badge/Projeto-Plataforma_TDB-blueviolet?style=for-the-badge"></a>
   <a href="#"><img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-blue?style=for-the-badge"></a>
 </p>
 
