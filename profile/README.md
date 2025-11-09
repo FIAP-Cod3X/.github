@@ -27,6 +27,6 @@ Nosso principal projeto é uma solução completa para o **Challenge da Turma do
 ```diff
 # Roadmap da Plataforma TDB
 + Sprint 1: Fundação e Prototipagem
-- Sprint 2: Desenvolvimento e Aprofundamento
++ Sprint 2: Desenvolvimento e Aprofundamento
 - Sprint 3: Back-end e Integração
 - Sprint 4: Implantação e Testes Finais
