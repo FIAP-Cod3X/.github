@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="#-sobre-nós">Sobre</a> •
-  <a href="#-projetos-em-destaque">Projetos</a> •
+  <a href="#-projetos-em-destaque">Projetos</a>
 </p>
 
 <p align="center">
