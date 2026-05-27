@@ -56,8 +56,8 @@ Um **GPS de requalificação profissional** focado em trabalhadores com alto ris
 ```diff
 # Ciclo de Desenvolvimento Atual
 + Sprint 1: Discovery, Ideação e Prototipagem (Concluído)
-+ Sprint 2: Desenvolvimento Front-end e Modelagem de Dados (Em andamento)
-- Sprint 3: Integração Back-end e APIs (Próximo)
-- Sprint 4: Deploy, Testes QA e Pitch Final (Pendente)
++ Sprint 2: Desenvolvimento Front-end e Modelagem de Dados (Concluído)
++ Sprint 3: Integração Back-end e APIs (Concluído)
++ Sprint 4: Deploy, Testes QA e Pitch Final (Concluído)
 ```
 <p align="center"> Desenvolvido com 💙 pela equipe <strong>Cod3X</strong> </p>
